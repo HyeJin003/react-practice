@@ -31,7 +31,6 @@ let isEmpty = false;
 
 //4. Null Type(아무것도 없다)
 let empty = null;
-
 //5. undifined type
 let none;
 console.log(none); // 변수는 선언하고 아무런 값도 할당되지 않을때 자동으로 들어가는값
