@@ -1,4 +1,6 @@
-//1.변수
+
+
+   <script src="./variable04.js"></script>;//1.변수
 let age = 27; //선언 하고 <- 초기화 한다.
 console.log(age);
 //초기화값없이 let age 만 할경우 undifined 가 나옴
